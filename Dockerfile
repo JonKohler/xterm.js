@@ -1,7 +1,7 @@
 FROM node:8
 MAINTAINER Paris Kasidiaris <paris@sourcelair.com>
 
-# Set the working directory
+# Set the working directoryy
 WORKDIR /usr/src/app
 
 # Set an entrypoint, to automatically install node modules
